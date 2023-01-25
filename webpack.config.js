@@ -1,3 +1,4 @@
+/* eslint-disable */
 const path = require('path');
 const toml = require('toml');
 const yaml = require('yamljs');
